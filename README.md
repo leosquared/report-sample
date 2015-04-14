@@ -7,7 +7,7 @@ Field Update
 
 #### Volunteer Growth
 
-= | Active Volunteers | Volunteer Leaders
+Category | Active Volunteers | Volunteer Leaders
 -- | -------------------: | ---------------------:
 Total 2015 | 6,000 |  400
 May Growth | 900 | 50
@@ -29,7 +29,7 @@ Digital Update
 
 #### Acquisition
 
-= | Email | SMS
+Category | Email | SMS
 -- | -----: | ------:
 Total 2015 | 2,600,000 | 32,000
 May Growth | 70,000 | 1,000
@@ -43,7 +43,7 @@ Highlights
 
 #### Social Media
 
-= | Everytown Facebook | Moms Facebook | Everytown Twitter | Moms Twitter
+Category | Everytown Facebook | Moms Facebook | Everytown Twitter | Moms Twitter
 -- | -------: | ---------: | --------: | ---------: 
 Current Fans | 500,000 | 500,000 | 30,000 | 10,000
 Reached in May | 2,000,000 | 1,400,000 | 30,000 | 10,000
