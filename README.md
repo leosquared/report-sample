@@ -8,7 +8,7 @@ Field Update
 #### Volunteer Growth
 
 Category | Active Volunteers | Volunteer Leaders
--- | -------------------: | ---------------------:
+---- | -------------------: | ---------------------:
 Total 2015 | 6,000 |  400
 May Growth | 900 | 50
 % Growth  | 15% | 12%
@@ -17,7 +17,7 @@ May Growth | 900 | 50
 #### Field Actions
 
 Action | May Total | Total 2015
---------| ------------: | -----------
+--------| ------------: | -----------:
 Volunteer Calls to Targets | 10 | 100
 Paid Calls to Targets | 200 | 1000
 Grassroots Lobby Meetings | 4 | 30
@@ -30,7 +30,7 @@ Digital Update
 #### Acquisition
 
 Category | Email | SMS
--- | -----: | ------:
+---- | -----: | ------:
 Total 2015 | 2,600,000 | 32,000
 May Growth | 70,000 | 1,000
 % Growth | 8% | 12%
@@ -44,7 +44,7 @@ Highlights
 #### Social Media
 
 Category | Everytown Facebook | Moms Facebook | Everytown Twitter | Moms Twitter
--- | -------: | ---------: | --------: | ---------: 
+---- | -------: | ---------: | --------: | ---------: 
 Current Fans | 500,000 | 500,000 | 30,000 | 10,000
 Reached in May | 2,000,000 | 1,400,000 | 30,000 | 10,000
 
