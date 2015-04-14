@@ -50,7 +50,7 @@ Reached in May | 2,000,000 | 1,400,000 | 30,000 | 10,000
 
 Highlighted Posts
 
- - Martinez quote at NRA Convention was liked 3,000 times, and shared 250 times
+ - [Martinez quote](https://www.facebook.com/EverytownUSA/posts/622992097801620) at NRA Convention was liked 3,000 times, and shared 250 times
 
 
 
